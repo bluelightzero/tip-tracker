@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Tip Tracker
+Tracks received tips while in your POH.
